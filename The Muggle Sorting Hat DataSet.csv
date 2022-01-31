@@ -1,0 +1,81 @@
+Name,Gender,Age,District,Friend 1,Friend 2 
+Betty Allison,female,10,Pandora,Molly Meer,Jessica Zebra
+Peter Alexs,male,10,Limsa,Günther Cohl,Ceasar Feige
+Gregor Allmann,male,11,Pandora,Bert Edamer,Ceasar Feige
+Tiffany Becks,female,10,Pandora,Ally Inka, Sally Brot
+Sally Brot,female,10,Limsa,Tiffany Becks,Betty Allison
+Nancy Click,female,11,Uldah,Zoe Jutter,Amanda Fredericks
+Günther Cohl,male,10,Uldah,Ceasar Feige,Peter Alexs
+Johnny Cedar,male ,10,Gridania,Marvin Geige,Leo Jackson
+Mathilda Damm,female,10,Limsa,Yule Hoffnung,Zoe Jutter
+Bert Edamer,male,10,Uldah,Peter Alexs,Günther Cohl
+Amanda Fredericks,female,11,Pandora,Nancy Click,Tiffany Becks
+Ceasar Feige,male,10,Limsa,Günther Cohl,Bert Edamer
+Stefanie Fluss,female ,10,Limsa,Lisa Santa,Yule Hoffnung
+Marvin Geige,male,10,Reach,Johnny Cedar,Max Jovus
+Katrin Great,female,10,Uldah,Sandra Nox,Milly Mucks
+Frederike Gaal,female ,10,Gridania,Steffie Horcrux,Shirley Temple
+Sebastian Guerrero,male,10,Queensdale,Carlos Vives,Herman Kaas
+Bryan Gyllenhaal,male,10,Gridania,Moritz ,Sander Proof
+Steffie Horcrux,female,10,Pandora,Frederike Gaal,Shirley Temple
+Yule Hoffnung,female,10,Pandora,Zoe Jutter,Amanda Fredericks
+Petro Ideki,male,10,Uldah,Xander Madrigal,Billy Nozzle
+Ally Inka,female,10,Uldah,Sally Brot,Yule Hoffnung
+Zoe Jutter,female,10,Pandora,Yule Hoffnung,Sally Brot
+Max Jovus,male,10,Limsa,Peter Alexs,Günther Cohl
+Leo Jackson,male,10,Pandora,Johnny Cedar,Max Jovus
+Hank Kalt,male,10,Queensdale,Bas Offen,Cole Maas
+Max Kaal,male,11,Queensdale,Alexander Odele,Billy Nozzle
+Trevor Kehl,male,10,Limsa,Hank Kalt,Cole Maas
+Vivian Kratz,female,10,Queensdale,Betty Olive,Anna Kruller
+Anna Kruller,female,10,Queensdale,Anna Mag,Vivian Kratz
+Arno Krys,male,10,Pandora,Victor Salat,Leo Jackson
+Stephanie Lanse ,female,10,Queensdale,Caroline,Maxie
+Maxie Looks,female,10,Uldah,Cici Lydda,Bibi Lydda
+Cici Lydda,female,10,Uldah,Bibi Lydda,Maxie Looks
+Bibi Lydda,female ,11,Uldah,Maxie Looks,Cici Lydda
+Cole Maas,male,10,Queensdale,Carlos Vives,Bas Offen
+Ernesto Madrigal,male,10,Uldah,Xander Madrigal,Kevin Nicks
+Xander Madrigal,male,10,Uldah,Ernesto Madrigal,Billy Nozzle
+Molly Meer,female,11,Pandora,Milly Mucks,Betty Allison
+Bernd Molen,male,10,Limsa,Zack Molen,Kevin Nicks
+Milly Mucks,female,10,Pandora,Katrin Great,Sandra Nox
+Kevin Nicks,male,10,Gridania,Ernesto Madrigal,Xander Madrigal
+Sandra Nox,female ,10,Gridania,Milly Mucks,Katrin Great
+Billy Nozzle,male,10,Limsa,Petro Ideki,Peter Alexs
+Alexa Nymm,female,10,Pandora, Stacy Nymm,Vera Nyoa
+Stacy Nymm,female ,11,Pandora,Steffie Horcrux,Mathilda Damm
+Vera Nyoa,female ,10,Pandora,Alexa Nymm,Nancy Click
+Zack Ober,male,10,Uldah,Bernd Molen,Kevin Nicks
+Alexander Odele,male,10,Gridania,Max Kaal,Trevor Kehl
+Bas Offen,male,10,Gridania,Hank Kalt,Cole Maas
+Betty Olive,female,10,Pandora, Anna Kruller,Vivian Kratz
+Sting Pallen,male,10,Queensdale,Adam Peggie,Sander Pendeln
+Georgia Pammen,female,10,Pandora,Amora Peer,Pillow
+Sander Pendeln,male,10,Limsa,Brent Phil,Moritz Piers
+Amora Peer,female,11,Queensdale,Georgia Pammen,Vivian Kratz
+Adam Peggie,male,10,Uldah,Brent Phil,Sander Pendeln
+Brent Phil,male,10,Uldah,Zack Ober,Moritz Piers
+Ryan Pillmann,male,10,Limsa,Steve Quarter, Newt Scamander 
+Moritz Piers,male,10,Limsa,Kevin Nicks,Cole Maas
+Wolter Plop,male ,10,Uldah,Steve Quarter,Newt Scamander
+Heather Proost ,female ,10,Gridania,Pillow Xeen,Feather Qalm
+Dave Pulps,male ,11,Pandora,Newt Scamander,Arno Krys
+Indi Pyrre,male,10,Pandora,Arno Krys ,Dave Pulps
+Feather Qalm,female,10,Gridania, Pillow Xeen,Heather Proost
+Steve Quarter,male ,10,Uldah,Newt Scamander,Wolter Plop
+Robin Racks,female ,10,Pandora,Amelie Reid,Thea Rekle
+Abel Reed,male,10,Reach,Bob Tamer,Frank Take
+Amelie Reid,female,10,Queensdale,Thea Rekle,Amora Peer
+Thea Rekle,female,10,Queensdale,Amelie Reid,Amora Peer
+Bob Rekon,male,10,Limsa,Cole Maas,Phil Rookie
+Frank Ringo,male,10,Uldah,Günther Cohl,Zack Ober
+Tyanda Roof,female,10,Gridania,Sally Brot,Georgia Pammen
+Lisa Santa,female,10,Limsa,Stefanie Fluss,Alexa Nymm
+Newt Scamander,male,10,Gridania,Alexander Odele,Ryan Pillmann
+Amelia Smidge,female ,10,Reach ,Holly Smidge,Willow Smidge
+Holly Smidge ,female,10,Reach ,Amelia Smidge,Willow Smidge
+Willow Smidge,female,10,Reach,Amelia Smidge,Holly Smidge
+Jessie Snape,female ,10,Limsa,Mathilda Damm,Stefanie Fluss
+Frank Take,male ,10,Reach,Abel Reed,Marvin Geige 
+Bob Tamer,male,10,Reach,Abel Reed,Frank Take
