@@ -1,1 +1,58 @@
+ def __init__(self, prompt, answer):
+        self.prompt = prompt
+        self.answer = answer
 
+def main():
+    print("Hello! This is a quiz that tries to know which type of personality you have base on colors\n"\
+          "on the answers you provide. Please respond with either 'a, b, c, or d.' Lets do this muggle!\n")
+    question_prompts = [
+        "What is your favorite hobby?\n(a) Read a book\n(b) Play Futball\n(c) Play piano\n(d) Play Videogames\n\n",
+        "What is your favorite season?\n(a) Summer\n(b) Fall\n(c) Winter\n(d) Spring\n\n",
+        "What is your favorite color?\n(a) Red\n(b) Yellow\n(c) Blue\n(d) Green\n\n",
+        "What is your favorite fruit?\n(a) Watermelon\n(b) Apple\n(c) Mango\n(d) Peach\n\n",
+        "What is your favorite assigment?\n(a) Mathematics\n(b) German\n(c) Arts\n(d) Sports\n\n",]
+    questions = [
+        Question(question_prompts[0]),
+        Question(question_prompts[1]),
+        Question(question_prompts[2]),
+        Question(question_prompts[3]),
+        Question(question_prompts[4])]
+    test = run_test(questions)
+
+def run_test(questions):
+    score_one = 0
+    score_two = 1
+    score_three = 2
+    score_four = 3
+    score_five = 4
+
+    for question in questions:
+        answer = input(question.prompt)
+        if answer == 'a':
+            score_one += 1
+        elif answer == 'b':
+            score_two += 1
+        elif answer == 'c':
+            score_three += 1
+        elif answer == 'd':
+            score_four += 1
+        else:
+            print('Invalid response')
+            print(question_prompt)
+    print("Result:", counter(answer)) 
+run_test(questions)
+
+#count total for each option
+def counter(answer):
+    if score_one > score_two and score_one > score_three and score_one > score_four:
+        print('You are Red!')
+    elif score_two > score_one and score_two > score_three and score_two > score_four:
+        print('You are Blue!')
+    elif score_three > score_one and score_three > score_two and score_three > score_four:
+        print('You are Yellow!')
+    else: 
+        print('You are Green!')
+
+main()
+python
+python-3.x
