@@ -51,7 +51,7 @@ if csv_uploaded is not None:
 else:
         st.info(
             f"""
-                Upload a .csv file first. Sample to try: [new_df_friends_small.csv](https://github.com/lbeiermann/sorting_app/blob/main/new_df_friends_small.csv)
+                Upload a .csv file first. Sample to try: [new_df_friends_small.csv](https://github.com/lbeiermann/The-Muggle-Sorting-Hat/blob/main/The%20Muggle%20Sorting%20Hat/new_df_friends_small.csv)
                 """
         )
 
