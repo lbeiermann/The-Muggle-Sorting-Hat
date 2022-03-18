@@ -22,9 +22,11 @@ Folder overview:
 ---
 
 The Muggle Sorting Hat first uses network analysis to form groups of friends, then clusters them (kmeans)
-based on various criteria (e.g. previous school, primary language spoken at home, ...), then takes groups 
-from each cluster and organises them into diverse classes of students.
+based on various criteria (e.g. previous school, gender, primary language spoken at home, ...), then takes groups 
+from each cluster and organises them into diverse classes of students. Possible classes are rated based on
+their diversity, similar class size and the percentage of groups of friends who stay together, and the best 
+result is returned to the user.
 
 To run The Muggle Sorting Hat on streamlit, follow this link: https://share.streamlit.io/lbeiermann/the-muggle-sorting-hat/main/streamlit_prototype.py. 
-Upload the sample data in the "The Muggle Sorting Hat" folder, eg. "new_df_friends_small.csv", pick a number of classes and run the app.
+Upload the sample data in the "The Muggle Sorting Hat" folder, "new_df_friends_small.csv", pick a number of classes and run the app.
 
